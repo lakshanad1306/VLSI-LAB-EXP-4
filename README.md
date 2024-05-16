@@ -82,6 +82,9 @@ endmodule
 
 # OUTPUT:
 
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/6743e22d-f3c2-4dc7-a43d-787e1afd4b38)
+
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/2fd92371-7a17-4f62-a6fe-b7aa1b3cb953)
 
 
 # JK FLIP FLOP
@@ -112,6 +115,11 @@ endmodule
 
 # OUTPUT:
 
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/039f055a-0d24-4c23-9054-344564d3481e)
+
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/a4ad80de-c1ae-4ce7-82be-39a7a6a1f6cb)
+
+
 # MOD-10 COUNTER
 
 VERILOG CODE:
@@ -130,6 +138,11 @@ endmodule
 ~~~
 
 # OUTPUT:
+
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/d95ad8e2-eea8-4c94-9e9f-db5d396588cf)
+
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/53eddac2-6802-41ca-ba73-baa69de46309)
+
 
 # RIPPLE CARRY COUNTER
 
@@ -166,6 +179,11 @@ endmodule
 
 # OUTPUT:
 
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/d9b8f92b-36bb-4d16-bd00-2d511ccdbb63)
+
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/d8c3485c-f722-412b-bb9d-698aa3a0a696)
+
+
 # SR FLIP FLOP
 
 VERILOG CODE:
@@ -192,6 +210,11 @@ endmodule
 
 # OUTPUT:
 
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/68003a30-cd17-4c14-a886-d67876fdbb06)
+
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/82a5bf2f-d469-46ae-93b0-a5bb22e545b8)
+
+
 # T FLIP FLOP
 
 VERILOG CODE:
@@ -213,6 +236,12 @@ endmodule
 
 # OUTPUT:
 
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/02d192aa-5d83-4361-8917-d4ffb341e2e6)
+
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/e7e3ccf7-3df5-48b6-8d39-b7ca38e5adeb)
+
+
+
 # UP-DOWN COUNTER
 
 VERILOG CODE:
@@ -233,6 +262,11 @@ endmodule
 ~~~
 
 # OUTPUT:
+
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/3a8e296e-3c6d-4d78-9f2e-fa9bc77e2b56)
+
+![image](https://github.com/lakshanad1306/VLSI-LAB-EXP-4/assets/161121355/8d68aa1e-50b9-4a87-8aa5-2d7d53e09671)
+
 
 RESULT:
 
